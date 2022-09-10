@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\2GINFO\JEE\TP3_JEE\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+770586551.index
+789498799.index
+2376994963.index
+1762190706.index
+4212096161.index
+4276632030.index
+3460420904.index
